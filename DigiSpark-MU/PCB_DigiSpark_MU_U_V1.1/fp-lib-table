@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Lex_Connector_PCBEdge)(type KiCad)(uri ${KIPRJMOD}/Lex_Connector_PCBEdge.pretty)(options "")(descr "PCB Edge PIN"))
+  (lib (name LOGO)(type KiCad)(uri E:/EE/DigiSpark/PCB_DigiSpark_U_V1.1/LOGO)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Lex_Connector_PCBEdge)(type KiCad)(uri ${KIPRJMOD}/Lex_Connector_PCBEdge.pretty)(options "")(descr "PCB Edge PIN"))
+)
