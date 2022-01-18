@@ -8,6 +8,14 @@
 
 ### EK-Link Lite
 
+**实物：**
+
+![](./imgs/EK-Link_Lite_F.jpg)
+
+![](./imgs/EK-Link_Lite_B.jpg)
+
+**3D：**
+
 ![](./imgs/PCB_EK-Link_Lite_F.jpg)
 
 ![](./imgs/PCB_EK-Link_Lite_B.jpg)
