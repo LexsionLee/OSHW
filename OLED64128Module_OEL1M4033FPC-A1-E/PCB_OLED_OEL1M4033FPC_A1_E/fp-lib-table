@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Lex_LCM_Solder")(type "KiCad")(uri "${KIPRJMOD}/Lex_LCM_Solder.pretty")(options "")(descr ""))
+  (lib (name "Lex_Logo")(type "KiCad")(uri "${KIPRJMOD}/Lex_LOGO.pretty")(options "")(descr ""))
+)

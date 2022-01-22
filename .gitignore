@@ -1,0 +1,6 @@
+*-backups/
+*-cache.lib
+*.kicad_prl
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
