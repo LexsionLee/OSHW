@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.1)"
     },
-    "CreationDate": "2022-01-25T10:28:24+08:00"
+    "CreationDate": "2022-01-25T13:59:19+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "PCB_OLED_OEL1M4033FPC_A1_E",
       "GUID": "5043425f-4f4c-4454-945f-4f454c314d34",
-      "Revision": "1.0"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 40.106,
@@ -28,8 +28,8 @@
       "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.2032,
-      "TrackToRegion": 0.254,
-      "RegionToRegion": 0.254
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
     }
   ],
   "FilesAttributes": [
