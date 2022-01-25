@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.1)"
     },
-    "CreationDate": "2022-01-22T22:46:41+08:00"
+    "CreationDate": "2022-01-25T10:28:24+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "PCB_OLED_OEL1M4033FPC_A1_E",
       "GUID": "5043425f-4f4c-4454-945f-4f454c314d34",
-      "Revision": "0.9"
+      "Revision": "1.0"
     },
     "Size": {
       "X": 40.106,
