@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Lex_MCU_WCH")(type "KiCad")(uri "${KIPRJMOD}/Lex_MCU_WCH.kicad_sym")(options "")(descr ""))
+)
