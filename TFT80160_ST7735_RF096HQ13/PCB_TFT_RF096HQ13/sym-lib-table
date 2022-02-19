@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Lex_LCM")(type "KiCad")(uri "${KIPRJMOD}/Lex_LCM.kicad_sym")(options "")(descr ""))
+)
