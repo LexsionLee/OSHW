@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.1)"
     },
-    "CreationDate": "2022-02-19T00:35:01+08:00"
+    "CreationDate": "2022-02-25T23:47:13+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "PCB_DAP_Link_CH55xT",
       "GUID": "5043425f-4441-4505-9f4c-696e6b5f4348",
-      "Revision": "0.9"
+      "Revision": "1.0"
     },
     "Size": {
       "X": 41.25,
