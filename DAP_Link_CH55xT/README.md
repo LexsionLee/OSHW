@@ -2,7 +2,11 @@
 
 此项目是一个 Type-C 接口的 DAP-Link。采用的CH554T方案，抄袭大佬[POSYSTORAGE的开源作品](https://github.com/posystorage/CH55x_HS_DAP-Link-v2)而来，原作使用的CH552G。大佬说对固件进行了优化，速度更快。本人手中只有几片CH554T，于是便画了这张板体验一番。
 
-**注意：PCB目前还没有实际验证！**
+**警告：V0.9 丝印存在错误，正面的SW接口GND和RST针脚丝印标记放反了。正确丝印从上到下依次为Vtg、DIO、CLK、GND、RST ，此问题已在1.0版本中修正。功能测试可用，考虑配件成本，不再打样**
+
+## 实物图：
+
+![](./imgs/CH554TDAP.jpg)
 
 ## 效果图：
 
@@ -31,4 +35,4 @@
 
 PCB目前还没有实际验证，PCB没有预留额外编程器接口。
 
-CH55x是通过出厂预置的USB Bootloader下载固件的，注意不要损坏Bootloader。
+CH55x是通过出厂预置的USB Bootloader下载固件的，注意少了时不要损坏Bootloader，不要更改下载配置脚。
